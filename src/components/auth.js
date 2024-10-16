@@ -1,5 +1,5 @@
 import {auth, googleProvider} from "../config/firebase";
-import {createUserWithEmailAndPassword, signInWithPopup ,signOut} from "firebase/auth";//..config/firebase/auth????
+import {createUserWithEmailAndPassword, signInWithPopup ,signOut} from "firebase/auth";//..config/firebase/auth????123 456
 import {useState} from "react";
 
 export const Auth = () =>{
